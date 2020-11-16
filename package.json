@@ -19,6 +19,9 @@
     "discord"
   ],
   "author": "Riya",
+  "contributors": [
+    "Pepijn98"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/riyacchi/eris-pagination/issues"
@@ -28,6 +31,6 @@
     "eris-reactions": "^0.1.3"
   },
   "peerDependencies": {
-    "eris": "^0.13.1"
+    "eris": "^0.14.0"
   }
 }
